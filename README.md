@@ -1,1 +1,1 @@
-[http://brianloveswords.github.com/data-uri-test](data-uri-test)
+[http://brianloveswords.github.com/data-uri-test/](data-uri-test)
